@@ -29,8 +29,8 @@ Problem list
 - [ ] 154 Find Minimum in Rotated Sorted Array II 30.9%   Hard
 - [ ] 153 Find Minimum in Rotated Sorted Array    32.7%   Medium
 - [ ] 152 Maximum Product Subarray    18.1%   Medium
-- [ ] 151 Reverse Words in a String   14.7%   Medium
-- [ ] 150 Evaluate Reverse Polish Notation    20.5%   Medium
+- [x] 151 Reverse Words in a String   14.7%   Medium
+- [x] 150 Evaluate Reverse Polish Notation    20.5%   Medium
 - [ ] 149 Max Points on a Line    11.8%   Hard
 - [ ] 148 Sort List   21.3%   Medium
 - [ ] 147 Insertion Sort List 25.9%   Medium
@@ -175,8 +175,8 @@ Problem list
 - [ ] 8   String to Integer (atoi)    13.7%   Easy
 - [ ] 7   Reverse Integer 30.1%   Easy
 - [ ] 6   ZigZag Conversion   22.5%   Easy
-- [ ] 5   Longest Palindromic Substring   20.7%   Medium
-- [ ] 4   Median of Two Sorted Arrays 17.7%   Hard
-- [ ] 3   Longest Substring Without Repeating Characters  21.8%   Medium
-- [ ] 2   Add Two Numbers 22.6%   Medium
-- [ ] 1   Two Sum 18.1%   Medium
+- [x] 5   Longest Palindromic Substring   20.7%   Medium
+- [x] 4   Median of Two Sorted Arrays 17.7%   Hard
+- [x] 3   Longest Substring Without Repeating Characters  21.8%   Medium
+- [x] 2   Add Two Numbers 22.6%   Medium
+- [x] 1   Two Sum 18.1%   Medium
