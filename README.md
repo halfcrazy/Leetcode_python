@@ -172,9 +172,9 @@ Problem list
 - [ ] 11  Container With Most Water   31.8%   Medium
 - [ ] 10  Regular Expression Matching 20.6%   Hard
 - [ ] 9   Palindrome Number   29.2%   Easy
-- [ ] 8   String to Integer (atoi)    13.7%   Easy
-- [ ] 7   Reverse Integer 30.1%   Easy
-- [ ] 6   ZigZag Conversion   22.5%   Easy
+- [x] 8   String to Integer (atoi)    13.7%   Easy
+- [x] 7   Reverse Integer 30.1%   Easy
+- [x] 6   ZigZag Conversion   22.5%   Easy
 - [x] 5   Longest Palindromic Substring   20.7%   Medium
 - [x] 4   Median of Two Sorted Arrays 17.7%   Hard
 - [x] 3   Longest Substring Without Repeating Characters  21.8%   Medium
