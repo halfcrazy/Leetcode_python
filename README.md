@@ -168,7 +168,7 @@ Problem list
 - [ ] 15  3Sum    16.8%   Medium
 - [ ] 14  Longest Common Prefix   26.4%   Easy
 - [ ] 13  Roman to Integer    34.5%   Easy
-- [ ] 12  Integer to Roman    34.4%   Medium
+- [x] 12  Integer to Roman    34.4%   Medium
 - [x] 11  Container With Most Water   31.8%   Medium
 - [x] 10  Regular Expression Matching 20.6%   Hard
 - [x] 9   Palindrome Number   29.2%   Easy
