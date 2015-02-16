@@ -171,7 +171,7 @@ Problem list
 - [ ] 12  Integer to Roman    34.4%   Medium
 - [ ] 11  Container With Most Water   31.8%   Medium
 - [ ] 10  Regular Expression Matching 20.6%   Hard
-- [ ] 9   Palindrome Number   29.2%   Easy
+- [x] 9   Palindrome Number   29.2%   Easy
 - [x] 8   String to Integer (atoi)    13.7%   Easy
 - [x] 7   Reverse Integer 30.1%   Easy
 - [x] 6   ZigZag Conversion   22.5%   Easy
