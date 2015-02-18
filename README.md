@@ -165,7 +165,7 @@ Problem list
 - [ ] 17  Letter Combinations of a Phone Number   26.6%   Medium
 - [ ] 18  4Sum    21.4%   Medium
 - [ ] 16  3Sum Closest    27.0%   Medium
-- [ ] 15  3Sum    16.8%   Medium
+- [x] 15  3Sum    16.8%   Medium
 - [x] 14  Longest Common Prefix   26.4%   Easy
 - [x] 13  Roman to Integer    34.5%   Easy
 - [x] 12  Integer to Roman    34.4%   Medium
