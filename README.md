@@ -166,7 +166,7 @@ Problem list
 - [ ] 18  4Sum    21.4%   Medium
 - [ ] 16  3Sum Closest    27.0%   Medium
 - [ ] 15  3Sum    16.8%   Medium
-- [ ] 14  Longest Common Prefix   26.4%   Easy
+- [x] 14  Longest Common Prefix   26.4%   Easy
 - [x] 13  Roman to Integer    34.5%   Easy
 - [x] 12  Integer to Roman    34.4%   Medium
 - [x] 11  Container With Most Water   31.8%   Medium
