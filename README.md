@@ -155,7 +155,7 @@ Problem list
 - [ ] 29  Divide Two Integers 15.7%   Medium
 - [ ] 28  Implement strStr()  21.9%   Easy
 - [ ] 27  Remove Element  32.5%   Easy
-- [ ] 26  Remove Duplicates from Sorted Array 31.6%   Easy
+- [x] 26  Remove Duplicates from Sorted Array 31.6%   Easy
 - [ ] 25  Reverse Nodes in k-Group    25.2%   Hard
 - [ ] 24  Swap Nodes in Pairs 32.6%   Medium
 - [ ] 23  Merge k Sorted Lists    21.1%   Hard
