@@ -160,7 +160,7 @@ Problem list
 - [ ] 24  Swap Nodes in Pairs 32.6%   Medium
 - [ ] 23  Merge k Sorted Lists    21.1%   Hard
 - [ ] 22  Generate Parentheses    32.3%   Medium
-- [ ] 20  Valid Parentheses   27.1%   Easy
+- [x] 20  Valid Parentheses   27.1%   Easy
 - [x] 19  Remove Nth Node From End of List    28.3%   Easy
 - [ ] 17  Letter Combinations of a Phone Number   26.6%   Medium
 - [ ] 18  4Sum    21.4%   Medium
