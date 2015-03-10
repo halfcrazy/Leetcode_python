@@ -1,6 +1,6 @@
 # Leetcode_python
 My Leetcode problem solutions in python
-
+paused on 2015/3/10
 Problem list
 ---
 - [ ] 187 Repeated DNA Sequences  16.7%   Medium
