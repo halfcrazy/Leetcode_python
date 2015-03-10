@@ -143,7 +143,7 @@ Problem list
 - [ ] 41  First Missing Positive  22.9%   Hard
 - [ ] 40  Combination Sum II  25.0%   Medium
 - [ ] 39  Combination Sum 27.5%   Medium
-- [ ] 38  Count and Say   25.7%   Easy
+- [x] 38  Count and Say   25.7%   Easy
 - [ ] 37  Sudoku Solver   21.3%   Hard
 - [x] 36  Valid Sudoku    27.2%   Easy
 - [ ] 35  Search Insert Position  35.3%   Medium
