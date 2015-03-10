@@ -145,7 +145,7 @@ Problem list
 - [ ] 39  Combination Sum 27.5%   Medium
 - [ ] 38  Count and Say   25.7%   Easy
 - [ ] 37  Sudoku Solver   21.3%   Hard
-- [ ] 36  Valid Sudoku    27.2%   Easy
+- [x] 36  Valid Sudoku    27.2%   Easy
 - [ ] 35  Search Insert Position  35.3%   Medium
 - [ ] 34  Search for a Range  27.6%   Medium
 - [ ] 33  Search in Rotated Sorted Array  28.9%   Hard
@@ -153,8 +153,8 @@ Problem list
 - [ ] 31  Next Permutation    25.2%   Medium
 - [ ] 30  Substring with Concatenation of All Words   18.8%   Hard
 - [ ] 29  Divide Two Integers 15.7%   Medium
-- [ ] 28  Implement strStr()  21.9%   Easy
-- [ ] 27  Remove Element  32.5%   Easy
+- [x] 28  Implement strStr()  21.9%   Easy
+- [x] 27  Remove Element  32.5%   Easy
 - [x] 26  Remove Duplicates from Sorted Array 31.6%   Easy
 - [ ] 25  Reverse Nodes in k-Group    25.2%   Hard
 - [ ] 24  Swap Nodes in Pairs 32.6%   Medium
